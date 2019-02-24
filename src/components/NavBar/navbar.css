@@ -1,0 +1,15 @@
+.navbar {
+    background-color: rgb(255, 166, 0);
+    width: 100%;
+}
+
+.navbar-content{
+    background-color: rgb(141, 141, 141);
+}
+
+.banner {
+    background-image: url("../../assets/car-collection.jpg");
+    width: 100%;
+    height: 10vh;
+    background-position-y: 50%;
+}
