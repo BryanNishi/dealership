@@ -10,7 +10,7 @@ const LandingPage = (props) => {
 
         <div className="landing">
         <NavBar />
-            <h1>The Dealership</h1>
+            <h1>Welcome!</h1>
           
         </div>
     )

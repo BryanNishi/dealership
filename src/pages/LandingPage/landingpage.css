@@ -1,0 +1,6 @@
+.landing{
+    background-image: url("../../assets/blueprint.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
